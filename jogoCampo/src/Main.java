@@ -74,7 +74,8 @@ public class Main
         		                
         		                System.out.println("Bumm!");
         		                System.out.println("Você acertou a Mina!");
-        		                System.out.println("Lina|__________");
+                                System.out.println();
+        		                System.out.println("Linha|__________");
 		                        for(linhaMinas=0; linhaMinas<campoMinas.length;linhaMinas++){
 		                       System.out.print(linhaMinas + "     | ");
 		                        for(colunaMinas=0;colunaMinas<campoMinas[linhaMinas].length;colunaMinas++){
