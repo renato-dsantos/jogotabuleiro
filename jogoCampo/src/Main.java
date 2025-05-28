@@ -20,7 +20,7 @@ public class Main
 	        int [][] campoMinas = new int [5][5];
 	        
 	          
-	          ///testar minas.
+	          ///testar minass.
 	        
 	       
 	      // System.out.println("Minas|__________");
